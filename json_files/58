@@ -1,0 +1,12 @@
+{
+  "description": "#58", 
+  "external_url": "", 
+  "image": "https://gateway.pinata.cloud/ipfs/Qmbi9ViReCM3FLqCukn9KaeXijVREa4FDpJ5MzKdWHd7Fd/58.png", 
+  "name": "NFT #58 - Comum",
+	"attributes": [
+	    {
+	      "trait_type": "Rarity", 
+	      "value": 1
+	    }, 
+	 ]
+}

@@ -1,0 +1,12 @@
+{
+  "description": "#89", 
+  "external_url": "", 
+  "image": "https://gateway.pinata.cloud/ipfs/Qmbi9ViReCM3FLqCukn9KaeXijVREa4FDpJ5MzKdWHd7Fd/89.png", 
+  "name": "NFT #89 - Rara",
+	"attributes": [
+	    {
+	      "trait_type": "Rarity", 
+	      "value": 2
+	    }, 
+	 ]
+}
